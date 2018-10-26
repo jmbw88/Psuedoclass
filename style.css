@@ -1,0 +1,30 @@
+img {
+    display:block;
+    height: 400px;
+    width: 400px;
+}
+
+h2 {
+    display: block;
+    width: 300px;
+    text-align: center;
+}
+
+a {
+    display:block;
+    background: green;
+    height: 300px;
+    width: 500px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 50px;
+    padding-top: 200px;
+    font-size: x-large;
+    text-align: center;
+}
+
+a:active {
+    opacity:0;
+    
+}
